@@ -1,0 +1,15 @@
+{"application": {
+
+       "first_name": "Jane",
+
+       "last_name": "Doe",
+
+       "id_number": "1234567",
+
+       "phone_number": "712345567",
+
+       "email": "jane@lipalater.com",
+
+       "item_description": "Sample item description",
+
+       "item_value": 45000.00}}
